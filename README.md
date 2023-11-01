@@ -10,7 +10,7 @@ Before running the script, ensure the following prerequisites are met:
 
 Python 3.x installed on your system.
 Access to OpenAI's API with a valid bearer token.
-Installation of the required Python libraries: requests, json, time, os, and youtube_transcript_api.
+Installation of the required Python libraries: `requests`, `json`, `time`, `os`, and `youtube_transcript_api`.
 
 ## How to Run It
 
@@ -25,4 +25,4 @@ The script will output a summary of the video transcript in the console.
 
 ## Detailed Medium Article
 
-For an in-depth walkthrough and explanation of the code, please refer to our Medium article. It provides a step-by-step guide and delves into the technical aspects of the script, ensuring a comprehensive understanding of its functionality and potential applications. The article will be linked here once it is published: <medium_url>.
+For an in-depth walkthrough and explanation of the code, please refer to my Medium article. It provides a step-by-step guide and delves into the technical aspects of the script, ensuring a comprehensive understanding of its functionality and potential applications.
