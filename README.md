@@ -25,4 +25,4 @@ The script will output a summary of the video transcript in the console.
 
 ## Detailed Medium Article
 
-For an in-depth walkthrough and explanation of the code, please refer to my Medium article. It provides a step-by-step guide and delves into the technical aspects of the script, ensuring a comprehensive understanding of its functionality and potential applications.
+For an in-depth walkthrough and explanation of the code, please refer to my [Medium article](https://skillsharer.medium.com/save-time-and-summarise-youtube-videos-with-python-97c5c86c406a). It provides a step-by-step guide and delves into the technical aspects of the script, ensuring a comprehensive understanding of its functionality and potential applications.
